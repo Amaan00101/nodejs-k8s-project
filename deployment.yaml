@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: nodejs-app
-        image: amaan00101/nodejs-k8s-app:latest
+        image: amaan00101/nodejs-k8s-app2:v2
         ports:
         - containerPort: 3000
